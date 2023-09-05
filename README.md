@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fadia Boudiaf</h1>
 <h3 align="center">A passionate full-stack developer from Algeria</h3>
 
-[![MasterHead](https://th.bing.com/th/id/OIP.FZGVRUnLT0WHCUnE3lPNrwHaF7?pid=ImgDet&rs=1)
-
-
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--fJJ2JGe---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/0j87sxmyhpakgimqpidl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadiabdf&label=Profile%20views&color=0e75b6&style=flat" alt="fadiabdf" /> </p>
