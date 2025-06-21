@@ -1,4 +1,4 @@
-# Hi there, I'm Fadia! 👋
+#                                                              Hi there, I'm Fadia! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
@@ -14,7 +14,6 @@
 - 📝 I write articles on **[Medium](https://medium.com/@fido050505bdf)**
 - 💬 Ask me about **Web Development, Python, or anything tech!**
 - 📫 How to reach me: **lf_boudiaf@esi.dz**
-- ⚡ Fun fact: I love turning coffee into code! ☕
 
 <br/>
 
@@ -24,33 +23,90 @@
   <a href="https://medium.com/@fido050505bdf" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
+  
   <a href="mailto:lf_boudiaf@esi.dz" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
+  <a href="https://www.linkedin.com/in/fadiaboudiaf/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://discord.com/users/f.a.d.i.a" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+
+  <a href="https://www.kaggle.com/boudiaffadia" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 </div>
+
 
 <br/>
 
 ## 🛠️ Languages and Tools:
 
-<div align="center">
-  
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/>
+</p>
 
 ### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,django" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/>
+</p>
 
 ### 🎨 Design & Styling
-<img src="https://skillicons.dev/icons?i=figma,tailwind,sass" />
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="40" height="40"/>
+</p>
+
+</td>
+<td valign="top" width="50%">
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+</p>
+
+### 🎮 Game Development & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/>
+</p>
 
 ### ☁️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,linux,opencv,postman,gcp" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" width="40" height="40"/>
+</p>
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -67,21 +123,7 @@
 
 <br/>
 
-## 🏆 GitHub Trophies:
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fadiabdf&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-## 📈 Contribution Graph:
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadiabdf&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br/>
 
 ## 💡 Random Dev Quote:
 
