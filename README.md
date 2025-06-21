@@ -1,5 +1,8 @@
 
-[![MasterHead](https://www.sarao.ac.za/wp-content/uploads/2020/06/GitHub__headpic-1030x579.webp)]
+<p align="center">
+  <img src="https://www.sarao.ac.za/wp-content/uploads/2020/06/GitHub__headpic-1030x579.webp" alt="GitHub Banner" width="100%" />
+</p>
+
 
 <h1 align="center">Hi, I'm Fadia</h1>
 
