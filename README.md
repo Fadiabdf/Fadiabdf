@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.sarao.ac.za/wp-content/uploads/2020/06/GitHub__headpic-1030x579.webp)](https://Fadiabdf.io)
+[![MasterHead](https://www.sarao.ac.za/wp-content/uploads/2020/06/GitHub__headpic-1030x579.webp)]
 
 <h1 align="center">Hi, I'm Fadia</h1>
 
