@@ -1,9 +1,10 @@
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fadiabdf&label=Profile%20views&color=0e75b6&style=flat" alt="fadiabdf" /> </p>
-
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.sarao.ac.za/wp-content/uploads/2020/06/GitHub__headpic-1030x579.webp))](https://Fadiabdf.io)
 
 <h1 align="center">Hi, I'm Fadia </h1>
+
+
+img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)"
 
 
 - 📝 I write articles on [https://medium.com/@fido050505bdf](https://medium.com/@fido050505bdf)
