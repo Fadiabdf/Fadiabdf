@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.sarao.ac.za/wp-content/uploads/2020/06/GitHub__headpic-1030x579.webp" alt="GitHub Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/e3048124-8d6b-4735-9755-65fa5b834158" alt="GitHub Banner" width="100%" />
 </p>
 
 
